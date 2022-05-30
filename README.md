@@ -51,4 +51,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashok2216-a&show_icons=true&theme=highcontrast&title_color=e6e6e6&text_color=e6e6e6&hide_border=true&locale=en" alt="ashok2216-a" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashok2216-a&theme=highcontrast" alt="ashok2216-a" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryo-ma&theme=highcontrast" alt="ashok2216-a" /></p>
