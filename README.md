@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashok kumar</h1>
-<h3 align="center">A passionate Data Scientist and AI Developer</h3>
+<h3 align="center">I’m working on a professional, beginner level and technologically proficient, responsive and multi-functional Developer. I have Curious in Programming and Artificial intelligence. I want to Discover new thing in Techlology world by using AL & ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok2216-a&label=Profile%20views&color=00fbff&style=plastic" alt="ashok2216-a" /> </p>
 
