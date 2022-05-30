@@ -49,6 +49,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ashok_2216"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashok_2216" /></a><a href="https://ko-fi.com/ashok_2216"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ashok_2216" /></a></p><br><br>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&show_icons=true&theme=highcontrast&title_color=e6e6e6&text_color=e6e6e6&hide_border=true&locale=en" alt="ashok2216-a" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ashok2216-a&show_icons=true&theme=highcontrast&title_color=e6e6e6&text_color=e6e6e6&hide_border=true&locale=en" alt="ashok2216-a" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ryo-ma&theme=highcontrast" alt="ashok2216-a" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashok2216-a&theme=highcontrast" alt="ashok2216-a" /></p>
