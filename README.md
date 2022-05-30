@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashok Kumar</h1>
-<h3 align="center">I experienced in end to end Date science project. There are some Methods I used - Data extraction, Cleaning, Mining, Features selection and engineering, ML modeling and Model deployment(Flask). I did many projects and also an expert in kaggle similar to other peoples(Dev's). My next target to learn about Accelerated computing in data science with integrated frameworks of Nvidia CUDA toolkits like CUdf, CUpy, CUxfilter and CUml. I think Data science job is my best choice.</h3>
+<h3 align="center">I experienced in end to end Date science project. There are some Methods I used - Data extraction, Cleaning, Mining, Features selection and engineering, ML modeling and Model deployment(Flask). I did many projects and also an expert in kaggle similar to other Developers. My next target to learn about Accelerated computing in data science with integrated frameworks of Nvidia CUDA toolkits like CUdf, CUpy, CUxfilter and CUml. I think Data science job is my best choice.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok2216-a&label=Profile%20views&color=0e75b6&style=flat" alt="ashok2216-a" /> </p>
 
