@@ -2,7 +2,7 @@
 <h3 align="center">I’m working on a professional, beginner level and technologically proficient, responsive and multi-functional Developer. I have Curious in Programming and Artificial intelligence. I want to Discover new thing in Techlology world by using AL & ML</h3>
 
 
-<img src="https://user-images.githubusercontent.com/74713336/171006316-76831d61-b89f-4071-9b35-39082231ab88.png">
+<img src="https://user-images.githubusercontent.com/74713336/171006576-155e866c-943a-4ac1-88c5-912d6d3b1bb8.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok2216-a&label=Profile%20views&color=00fbff&style=plastic" alt="ashok2216-a" /> </p>
