@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashok_2216" target="blank"><img src="https://img.shields.io/twitter/follow/ashok_2216?logo=twitter&style=for-the-badge" alt="ashok_2216" /></a> </p>
 
-- 🔭 I’m currently working on AI Model Store Website [AI Model Store](https://ashok2216-a.github.io/ashok2216_myportfolio.github.io/)
+- 🔭 I’m currently working on AI Model Store Website [AI Model Store](https://ashok2216-a.github.io/ashok2216_aimodelstore.github.io/)
 
 - 🌱 I’m currently learning Data Science **Tensorflow, Keras, Courses - Deep Learning, Machine Learning, Computer Vision**
 
