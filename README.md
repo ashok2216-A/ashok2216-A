@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning Data Science **Tensorflow, Keras, Courses - Deep Learning, Machine Learning, Computer Vision**
 
-- 👯 I’m looking to collaborate on Sachin Pranav My Senior **Stock Price Prediction Webapp**
+- 👯 I’m working collab with Sachin Pranav My Senior **Stock Price Prediction Webapp**
 
 - 👨‍💻 All of my projects are available at [https://ashok2216-a.github.io/ashok2216_myportfolio.github.io/](https://ashok2216-a.github.io/ashok2216_myportfolio.github.io/)
 
