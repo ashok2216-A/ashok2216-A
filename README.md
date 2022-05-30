@@ -24,8 +24,8 @@
 - ⚡ Fun fact **I am Data scientist, but I'm creating websites**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:START
+BLOG-POST-LIST:END
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
