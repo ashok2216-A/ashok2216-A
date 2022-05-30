@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ashok kumar</h1>
 <h3 align="center">I’m working on a professional, beginner level and technologically proficient, responsive and multi-functional Developer. I have Curious in Programming and Artificial intelligence. I want to Discover new thing in Techlology world by using AL & ML</h3>
 
-<img src="https://octodex.github.com/images/Fintechtocat.png" height=100px>
+<img src="https://octodex.github.com/images/Fintechtocat.png" height=800px>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok2216-a&label=Profile%20views&color=00fbff&style=plastic" alt="ashok2216-a" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashok2216-a&theme=darkhub" alt="ashok2216-a" /></a> </p>
