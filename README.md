@@ -57,4 +57,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashok2216-a&theme=highcontrast" alt="ashok2216-a" /></p>
 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=yM1Ho4vR&id=DD13E3317708C2CF5EAD4D959A6512F20CD1E0A8&thid=OIP.yM1Ho4vRDl-uQ8glOSuXlwHaFy&mediaurl=https%3a%2f%2fwww.pytorials.com%2fwp-content%2fuploads%2f2017%2f12%2ftensorflow-with-cuda.png&exph=800&expw=1024&q=tensorflow&simid=608009052669960399&FORM=IRPRST&ck=3D50494B152EEC99A6814E055281CF14&selectedIndex=19">
+<img src="https://tse3.mm.bing.net/th/id/OIP.rshp_nM5S4TnR38PjMMb5wHaFy?w=202&h=180&c=7&r=0&o=5&pid=1.7">
