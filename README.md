@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74713336/171007028-54418905-69d6-4ba8-a528-a732ca91b203.png">
 
-
+dsfkljfldielaaslfashok kumar
 <h1 align="center">Hi 👋, I'm Ashok kumar</h1>
 <h3 align="center">I’m working on a professional, beginner level and technologically proficient, responsive and multi-functional Developer. I have Curious in Programming and Artificial intelligence. I want to Discover new thing in Techlology world by using AL & ML</h3>
 
